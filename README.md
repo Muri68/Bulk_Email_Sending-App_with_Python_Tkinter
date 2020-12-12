@@ -16,3 +16,7 @@ Project Name: Bulk Email Sending App
 6.  Install Requirements Package:-  pip install -r requirements.txt
 
 7.  Finally Run The Project:-  main.py
+
+
+# Preview
+![](images/1.png)
