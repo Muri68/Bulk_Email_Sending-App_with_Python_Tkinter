@@ -19,11 +19,11 @@ Project Name: Bulk Email Sending App
 
 
 # Preview
-Single Mail Interface
+# Single Mail Interface
 ![](images/1.PNG)
 
-Bulk Mail Interface
+# Bulk Mail Interface
 ![](images/3.PNG)
 
-Email Login Area
+# Email Login Area
 ![](images/2.PNG)
