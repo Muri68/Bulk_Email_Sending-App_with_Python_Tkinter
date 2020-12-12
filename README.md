@@ -3,12 +3,16 @@ Python GUI Application to send Single and Bulk Emails
 
 Project Name: Bulk Email Sending App
 # How To Setup
-Clone This Project git clone https://github.com/Muri68/Bulk_Email_Sending-App_with_Python_Tkinter.git
+1.  Clone This Project git clone https://github.com/Muri68/Bulk_Email_Sending-App_with_Python_Tkinter.git
 
-Enter Project Directory:-  cd bulk_email_sending_app
+2.  Enter Project Directory:-  cd bulk_email_sending_app
 
-Create a Virtual Environment:-  virtualenv env
-Activate Virtual Environment(Windows):-  env\Scripts\activate
-Activate Virtual Environment(MAC):-  source env/bin/activate
-Install Requirements Package:-  pip install -r requirements.txt
-Finally Run The Project:-  main.py
+3.  Create a Virtual Environment:-  virtualenv env
+
+4.  Activate Virtual Environment(Windows):-  env\Scripts\activate
+
+5.  Activate Virtual Environment(MAC):-  source env/bin/activate
+
+6.  Install Requirements Package:-  pip install -r requirements.txt
+
+7.  Finally Run The Project:-  main.py
